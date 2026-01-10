@@ -100,9 +100,7 @@
 &mkp MB1                   &mkp MB2
             >;
 
-            sensor-bindings =
-                <&encoder_msc_down_up>,
-                <&inc_dec_kp C_VOLUME_UP K_VOLUME_DOWN>;
+            sensor-bindings = <&encoder_msc_down_up>, <&encoder_msc_down_up>;
         };
 
         SYMBOL {

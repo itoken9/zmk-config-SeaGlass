@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/inorichi
     - name: caksoylar
       url-base: https://github.com/caksoylar
-  　- name: prospector
+    - name: prospector
       url-base: https://github.com/t-ogura
   projects:
     - name: zmk

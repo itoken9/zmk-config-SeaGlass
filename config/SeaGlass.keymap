@@ -130,7 +130,7 @@
 &kp NUMBER_1      &kp NUMBER_2   &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6                &kp NUMBER_7            &kp UP_ARROW    &kp NUMBER_8             &kp NUMBER_9
 &kp LEFT_CONTROL  &kp BACKSPACE  &kp ENTER     &kp DELETE    &kp LANGUAGE_2  &kp LANG1                   &kp LEFT_ARROW          &kp DOWN_ARROW  &kp RIGHT_ARROW          &kp HOME
 &kp LEFT_SHIFT    &trans         &trans        &trans        &trans          &kp LA(LG(LC(LEFT_ARROW)))  &kp LA(LG(LEFT_ARROW))  &kp LA(LG(F))   &kp RG(RA(RIGHT_ARROW))  &kp END
-&trans            &trans         &trans        &trans        &trans          &trans                      &trans                  &trans          &trans                   &trans
+&trans            &trans         &trans        &trans        &trans          &trans                      &trans                  &trans          &trans                   &kp NUMBER_0
 &mkp MB1          &mkp MB2
             >;
 

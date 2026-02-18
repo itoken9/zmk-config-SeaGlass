@@ -18,7 +18,7 @@ manifest:
       revision: main
     - name: zmk-rgbled-widget
       remote: caksoylar
-      revision: main
+      revision: v0.3-branch
     - name: prospector-zmk-module
       remote: prospector
       revision: v2.0.0 #v2.1.0  # Use v2.0.0 for ZMK ≤0.3 (Zephyr 3.x)
